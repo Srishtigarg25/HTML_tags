@@ -3,7 +3,7 @@ some bucket tags are :
 <p>this is a paragraph tag</p>
 <head>
 .
+  <ul> </ul>
+  <ol> </ol>
 .
-.write the main body here.
-.
-</head?
+</head>
